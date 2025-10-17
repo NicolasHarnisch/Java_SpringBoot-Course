@@ -1,13 +1,3 @@
-# Projeto Todolist em Java com Spring Boot
-
-Este é um projeto de API para um gerenciador de tarefas (To-do List), desenvolvido como parte dos meus estudos em Java e Spring Boot. O objetivo é criar um backend robusto para gerenciar tarefas, usuários e outras funcionalidades.
-
-## ✨ Tecnologias Utilizadas
-
-* **Java**: Linguagem principal do projeto.
-* **Spring Boot**: Framework para criação de APIs de forma rápida e robusta.
-* **Maven**: Gerenciador de dependências e build do projeto.
-
 ## 📂 Estrutura do Projeto
 
 A organização das pastas segue o padrão do Spring Boot para garantir que o *Component Scan* funcione corretamente e o servidor encontre todas as classes anotadas.
